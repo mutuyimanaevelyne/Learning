@@ -1,0 +1,30 @@
+body{
+    background-image: url("michoux.jpgs");
+    margin: 35px;
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-position:right top;
+    margin-right: 40px;
+    background-attachment: fixed;
+    
+        font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+        font-size: 81.25%;
+    }
+      
+
+    }
+.header{
+    color:blue;
+ font-style: italic;
+}
+.about{
+    background-color: grey;
+    border:1px solid black;
+     border-radius:2px ;
+     margin: 20px;
+     background-image: url("sk.jpg");
+}
+link {
+    display: none;
+}
+  
